@@ -1,0 +1,10 @@
+.container{
+    margin: 0 auto;
+    max-width: 1200px;
+}
+.one__title{
+    text-align: center;
+}
+p{
+    font-size: 25px;
+}
